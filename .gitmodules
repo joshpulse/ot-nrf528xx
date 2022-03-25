@@ -1,4 +1,3 @@
 [submodule "openthread"]
 	path = openthread
-	url = https://github.com/purvisb/openthread
-	update = merge
+	url = https://github.com/joshpulse/openthread.git
